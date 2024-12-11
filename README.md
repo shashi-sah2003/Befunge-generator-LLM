@@ -1,7 +1,7 @@
 
 ## Demo video
 
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/gG_97zVAWOE)
+[![Demo Video](https://img.youtube.com/vi/gG_97zVAWOE/0.jpg)](https://youtu.be/gG_97zVAWOE)
 
 ## Setup
 
