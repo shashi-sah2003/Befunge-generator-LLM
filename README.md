@@ -42,3 +42,6 @@
         ```sh
         python befunge.py expected_output.txt generated_befunge_code.txt
         ```
+## Sample Output
+    - expected_output.txt = Hello guys how are you doing!
+    - generated_befunge_code.txt - "!gniod uoy era woh syug olleH">:#,_@
