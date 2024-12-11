@@ -32,8 +32,6 @@ def generate_befunge_code(input_file):
         
         reversed_content = response_reverse.choices[0].message.content.strip()
 
-        # Step 3: Ensure the format strictly follows the pattern
-        # Strip any extra spaces and apply the desired format
         final_befunge_code = reversed_content
 
         return final_befunge_code
